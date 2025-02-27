@@ -29,6 +29,8 @@ driver.findElement(By.xpath("//a[normalize-space()='OrangeHRM, Inc']")).click();
 Set<String>windoids=driver.getWindowHandles();
 System.out.println(windoids);
 
+// this is for further use for my coding.
+
 //boolean logo=driver.findElement(By.xpath("//img[@alt='nopCommerce demo store']")).isDisplayed();
 //System.out.println("logo status:"+logo);
 //
