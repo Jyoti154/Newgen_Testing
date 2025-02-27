@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T13:49:18 IST" name="Default suite" finished-at="2024-12-16T13:49:45 IST" duration-ms="27243">
+    <groups>
+    </groups>
+    <test started-at="2024-12-16T13:49:18 IST" name="Default test" finished-at="2024-12-16T13:49:45 IST" duration-ms="27243">
+      <class name="Day45.datapro">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day45.datapro@35d019a3]" started-at="2024-12-16T13:49:18 IST" name="setup" finished-at="2024-12-16T13:49:25 IST" duration-ms="7074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Day45.datapro@35d019a3]" started-at="2024-12-16T13:49:25 IST" name="login" data-provider="js" finished-at="2024-12-16T13:49:29 IST" duration-ms="4761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Day45.datapro@35d019a3]" started-at="2024-12-16T13:49:30 IST" name="login" data-provider="js" finished-at="2024-12-16T13:49:33 IST" duration-ms="3678" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jyotu89@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jyo145]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Day45.datapro@35d019a3]" started-at="2024-12-16T13:49:33 IST" name="login" data-provider="js" finished-at="2024-12-16T13:49:37 IST" duration-ms="3664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavanol123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Day45.datapro@35d019a3]" started-at="2024-12-16T13:49:37 IST" name="login" data-provider="js" finished-at="2024-12-16T13:49:41 IST" duration-ms="3789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shal678@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hi123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Day45.datapro@35d019a3]" started-at="2024-12-16T13:49:41 IST" name="login" data-provider="js" finished-at="2024-12-16T13:49:45 IST" duration-ms="3864" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hiok86@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gjk123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Day45.datapro@35d019a3]" started-at="2024-12-16T13:49:45 IST" name="teardown" finished-at="2024-12-16T13:49:45 IST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Day45.datapro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
